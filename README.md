@@ -33,4 +33,4 @@ color_r color_g color_b center_x center_y center_z radius
 ```
 
 ## Sample Output
-![render](world.ppm)
+![render](world.png)
