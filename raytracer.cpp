@@ -1,9 +1,8 @@
 /**
- * @file Assignment2.cpp
- *  
- * @brief Assignment 2 - HY-150
+ * @file raytracer.cpp
  * 
- * @author: csd5582
+ * 
+ * @author: Konstantinos Galinos
  */
 
 #include <iostream>
