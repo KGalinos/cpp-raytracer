@@ -1,0 +1,10 @@
+build/
+*.vcxproj
+*.sln
+*.filters
+CMakeCache.txt
+cmake_install.cmake
+Debug/
+Release/
+*.o
+*.exe
