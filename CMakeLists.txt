@@ -7,4 +7,3 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS ON)
 
 add_executable(assignment2 Assignment2.cpp)
-add_executable(example Example.cpp)
